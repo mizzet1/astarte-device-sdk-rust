@@ -1,6 +1,6 @@
 {
-    "realm": "Realm name",
+    "realm": "myrealm",
     "device_id": "Device ID",
     "credentials_secret": "Credentials secret",
-    "pairing_url": "Pairing URL"
+    "pairing_url": "https://api.dashboard.astarte.192.168.49.210.sslip.io/pairing"
 }
